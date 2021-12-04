@@ -1,0 +1,53 @@
+html{
+    font-family: verdana, sans-serif;
+    background: darkgreen;
+}
+
+.title.one {
+    color: orange;
+    font-size: 24px;
+    text-align: center;
+}
+
+.para{
+    color: orange;
+}
+
+.title.two {
+    color: lightpink;
+    font-size: 20px;
+    text-align: center;
+}
+
+.title.three {
+    color: lightpink;
+    font-size: 20px;
+    text-align: center;
+}
+
+.title.four {
+    color:lightpink;
+    font-size: 20px;
+    text-align: left;
+}
+
+img {
+    height: 200px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ingredients{
+    color: darkgreen;
+    background-color: orange;
+}
+
+.steps{
+    color: orange;
+}
+
+.links{
+    color: orange;
+}

@@ -1,0 +1,66 @@
+/* styles.css */
+head{
+    font-family: verdana, sans-serif;
+}
+
+.title span{
+    background-color: gold;
+    color: brown;
+}
+
+.title.one {
+    text-align: center;
+    font-size: 28px;
+}
+
+.title.two {
+    text-align: center;
+    font-size: 22px;
+}
+
+.title.three {
+    font-size: 22px;
+    text-align: center;
+}
+
+.title.four {
+    font-size: 22px;
+    text-align: left;
+}
+
+
+#image img{
+    width: 50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.para {
+    text-align: center;
+}
+
+.ingredients {
+    text-align: left;
+}
+.odd {
+    background: brown;
+    color: gold;
+}
+
+.even {
+    background: gold;
+    color: brown;
+}
+
+.steps {
+    text-align: left;
+    background-color: white;
+    color: black;
+}
+
+.links {
+    color: blue;
+    text-align: left;
+}

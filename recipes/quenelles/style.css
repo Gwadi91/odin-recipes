@@ -1,0 +1,43 @@
+/*stylesheet*/
+
+html {
+    font-family: verdana, sans-serif;
+    background: black;
+}
+
+.title {
+    size: 3px;
+    color: rgb(218, 173, 89);
+    text-align: center;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: autosx;
+}
+
+.header {
+    color: orange;
+    text-align: center;
+}
+
+.header.two {
+    size: 20px;
+    text-align: center;
+}
+
+.list.one {
+    color:  orange; 
+}
+
+.list.two {
+    color: orangered;
+}
+
+.para {
+    text-align: justify;
+    color: yellow;
+}
